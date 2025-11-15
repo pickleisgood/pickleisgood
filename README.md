@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### Hi there! I'm **pickleisgood** 👋
+### Hi there! I'm **Andre Xue** 👋
 
 _Building something meaningful, one commit at a time._
 
@@ -21,7 +21,7 @@ _Building something meaningful, one commit at a time._
 ## 📫 Get in Touch
 
 I'd love to connect! Feel free to reach out for collaboration or just to chat.
-
+Connect: [LinkedIn](https://www.linkedin.com/in/andre-xue-146a67382/)
 ---
 
 <div align="center">
